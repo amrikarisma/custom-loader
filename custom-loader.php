@@ -4,7 +4,7 @@
  * Description: A plugin to load custom JavaScript and CSS files in WordPress, with the capability to override functions defined in the theme.
  * Version: 1.0
  * Author: Amri Karisma
- * Author URI: https://github.com/amrikarisma
+ * Author URI: https://github.com/amrikarisma/custom-loader
  */
 
 function custom_script_style_loader_enqueue_scripts() {
